@@ -9,4 +9,4 @@ There are 3 different types of icons:
 3. full - A character's entire render
 
 Costumes are numbers by the amount of times you would press X on a gamecube controller to access a costume
-so for example, if you would press X 5 times, the costume would be in Character Icons\{character}\{stock/portrait/full}\5.png
+so for example, if you would press X 5 times, the costume would be in {character}\\{stock/portrait/full}\\5.png
